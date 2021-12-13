@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: cn.org.javaweb.iast.Agent
+Can-Retransform-Classes: true
+Can-Redefine-Classes: true
+Can-Set-Native-Method-Prefix: true
